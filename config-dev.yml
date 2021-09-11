@@ -1,2 +1,4 @@
+application:
+  name: this_is_test
 config:
   info: "master config-dev.yml version = 8"
